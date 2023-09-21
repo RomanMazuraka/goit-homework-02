@@ -1,0 +1,63 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+}
+
+.hader-navigation {
+}
+
+.hader-logo {
+  color: #2e2f42;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.hader-logo-text {
+  color: #4d5ae5;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.16;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.hader-menu {
+}
+
+.hader-menu-item {
+  color: #2e2f42;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+}
+
+.hader-address {
+}
+
+.hader-address-list {
+  font-style: normal;
+}
+
+.hader-address-item {
+  color: #434455;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1, 5;
+  letter-spacing: 0.02em;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
