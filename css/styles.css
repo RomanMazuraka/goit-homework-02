@@ -61,3 +61,75 @@ ul {
 a {
   text-decoration: none;
 }
+
+.hero {
+  background: #2e2f42;
+  width: 1440px;
+  height: 600px;
+  flex-shrink: 0;
+}
+.hero-title {
+  color: #fff;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+  letter-spacing: 0.02em;
+  width: 496px;
+}
+.hero-button {
+  display: inline-flex;
+  padding: 16px 32px;
+  align-items: flex-start;
+  gap: 10px;
+  border-radius: 4px;
+  background: #4d5ae5;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.advantages-company {
+}
+.advantages-company-title {
+}
+.advantages-company-list {
+}
+.advantages-company-item {
+}
+.advantages-company-item-title {
+}
+.advantages-company-item-text {
+}
+.team-company {
+}
+.team-company-title {
+}
+.team-company-list {
+}
+.team-company-item {
+}
+.team-company-img {
+}
+.team-company-item-title {
+}
+.team-company-item-text {
+}
+.portfolio-company {
+}
+.portfolio-company-title {
+}
+.portfolio-company-list {
+}
+.portfolio-company-item {
+}
+.portfolio-company-img {
+}
+.portfolio-company-item-title {
+}
+.portfolio-company-item-text {
+}
+.footer {
+}
+.footer-link {
+}
+.footer-text {
+}
