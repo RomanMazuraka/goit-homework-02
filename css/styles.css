@@ -4,6 +4,8 @@ body {
   background-color: #ffffff;
 }
 
+/* Header */
+
 .header {
   background-color: #ffffff;
 }
@@ -71,6 +73,8 @@ a {
   text-decoration: none;
 }
 
+/* Section 1 */
+
 .hero {
   background-color: #2e2f42;
 }
@@ -100,15 +104,8 @@ a {
 .hero-button-text {
 }
 
-.visually-hidden {
-  clip: rect(0 0 0 0);
-  clip-path: inset(50%);
-  height: 1px;
-  overflow: hidden;
-  position: absolute;
-  white-space: nowrap;
-  width: 1px;
-}
+/* Section 2 */
+
 .advantages-company {
 }
 .advantages-company-title {
@@ -131,6 +128,9 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+/* Section 3 */
+
 .team-company {
   background-color: #f4f4fd;
 }
@@ -147,6 +147,7 @@ a {
 .team-company-list {
 }
 .team-company-item {
+  background-color: #ffffff;
 }
 .team-company-img {
 }
@@ -164,6 +165,9 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+/* Section 4 */
+
 .portfolio-company {
   background-color: #ffffff;
 }
@@ -196,6 +200,9 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
+
+/* Footer */
+
 .footer {
   background-color: #2e2f42;
 }
