@@ -1,5 +1,6 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: #434455;
   background: #fff;
 }
 
@@ -7,22 +8,21 @@ body {
 }
 
 .hader-navigation {
-  border-bottom: 1px solid #e7e9fc;
   background-color: #fff;
 }
 
 .hader-logo {
-  color: #2e2f42;
-  font-family: Raleway;
+  color: #4d5ae5;
+  font-family: "raleway", sans-serif;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 
 .hader-logo-text {
-  color: #4d5ae5;
+  color: #2e2f42;
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
@@ -46,7 +46,7 @@ body {
   color: #404bbf;
 }
 
-.hader-address-list {
+.hader-address {
   font-style: normal;
 }
 
@@ -76,30 +76,27 @@ a {
 }
 .hero-title {
   color: #fff;
-  text-align: center;
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  width: 496px;
 }
 .hero-button {
-  background: #4d5ae5;
-  border-radius: 4px;
   background-color: #4d5ae5;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
   cursor: pointer;
-  font-family: inherit;
 }
 
 .hero-button:hover,
 .hero-button:focus {
-  border-radius: 4px;
   background-color: #404bbf;
-  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 .hero-button-text {
-  color: #fff;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
 .visually-hidden {
@@ -142,17 +139,13 @@ a {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
   text-transform: capitalize;
 }
 
 .team-company-list {
 }
 .team-company-item {
-  border-radius: 0px 0px 4px 4px;
-  background-color: #fff;
-  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
-    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
-    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 .team-company-img {
 }
@@ -179,11 +172,11 @@ a {
   font-weight: 700;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 .portfolio-company-list {
 }
 .portfolio-company-item {
-  border: 1px solid #e7e9fc;
   background-color: #fff;
 }
 .portfolio-company-img {
@@ -206,11 +199,12 @@ a {
   background-color: #2e2f42;
 }
 .footer-link {
+  font-family: "Raleway", sans-serif;
   color: #f4f4fd;
   font-family: Raleway;
   font-size: 18px;
   font-weight: 700;
-  line-height: 1.16;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
