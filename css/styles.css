@@ -1,14 +1,14 @@
 body {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  background: #fff;
+  background-color: #ffffff;
 }
 
 .header {
+  background-color: #ffffff;
 }
 
 .hader-navigation {
-  background-color: #fff;
 }
 
 .hader-logo {
@@ -79,11 +79,18 @@ a {
   font-size: 56px;
   font-weight: 700;
   line-height: 1.07;
+  text-align: center;
   letter-spacing: 0.02em;
 }
 .hero-button {
   background-color: #4d5ae5;
   cursor: pointer;
+  color: #ffffff;
+  font-size: 16px;
+  font-family: inherit;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 
 .hero-button:hover,
@@ -91,12 +98,6 @@ a {
   background-color: #404bbf;
 }
 .hero-button-text {
-  color: #ffffff;
-  font-size: 16px;
-  font-family: inherit;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.04em;
 }
 
 .visually-hidden {
@@ -164,7 +165,7 @@ a {
   letter-spacing: 0.02em;
 }
 .portfolio-company {
-  background-color: #fff;
+  background-color: #ffffff;
 }
 .portfolio-company-title {
   color: #2e2f42;
@@ -199,10 +200,9 @@ a {
   background-color: #2e2f42;
 }
 .footer-link {
-  font-family: "Raleway", sans-serif;
-  color: #f4f4fd;
-  font-family: Raleway;
+  color: #4d5ae5;
   font-size: 18px;
+  font-family: "Raleway", sans-serif;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
@@ -210,7 +210,7 @@ a {
 }
 
 .footer-link-text {
-  color: #4d5ae5;
+  color: #f4f4fd;
 }
 
 .footer-text {
